@@ -6,3 +6,4 @@ Thumbs.db
 review-*.png
 painelsolarexemplo.png
 src/assets/solar-house-*.png
+.env*
