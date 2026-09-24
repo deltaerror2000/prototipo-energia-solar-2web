@@ -1,0 +1,8 @@
+node_modules
+dist
+.vercel
+.DS_Store
+Thumbs.db
+review-*.png
+painelsolarexemplo.png
+src/assets/solar-house-*.png

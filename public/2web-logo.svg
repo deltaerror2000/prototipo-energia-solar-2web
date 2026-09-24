@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Logo 2W</title>
+  <g fill="none" stroke="#C99A24" stroke-width="34" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M103 183c21-68 82-105 147-88 68 18 93 88 58 148-24 42-68 65-109 91l-88 55h154"/>
+    <path d="M286 386 358 175l69 211 52-151"/>
+    <path d="M93 259c-42-35-50-88-15-125 36 34 51 80 31 132"/>
+    <path d="M110 255c21-46 63-73 116-70-17 45-55 74-116 70z"/>
+    <path d="M424 145c0 21-17 38-38 38s-38-17-38-38 17-38 38-38 38 17 38 38z"/>
+  </g>
+</svg>
